@@ -1,0 +1,140 @@
+presentation_title: 'Sleep Smarter: 4 Quick Wins for Better Focus and Memory'
+presenter: Lucas Krawczak
+course: LASP400-NRA Week 7 Individual Presentation
+slide_1:
+  type: title_and_hook
+  title: 'Sleep Smarter: 4 Quick Wins for Better Focus and Memory'
+  subtitle: Evidence-Based Strategies for Academic Success
+  hook_question: 'It''s the night before your midterm. Do you:'
+  options:
+  - A) Stay up until 2am cramming?
+  - B) Go to sleep at midnight?
+  key_stat_label: 'The Research Answer:'
+  key_stat: Every hour of lost sleep = 0.07 GPA decrease
+  citation: Okano et al. (2023), PNAS
+  image_description: Split-screen showing stressed student cramming late at night
+    vs well-rested student studying effectively
+slide_2:
+  type: two_systems
+  title: 'How Sleep Works: Two Key Systems'
+  system_1:
+    name: Sleep Pressure (Adenosine)
+    points:
+    - Builds up while you're awake
+    - Creates 'sleepiness' sensation
+    - Caffeine blocks adenosine receptors temporarily
+  system_2:
+    name: Circadian Rhythm (Internal Clock)
+    points:
+    - 24-hour cycle controlled by light
+    - Morning light → earlier sleep
+    - Evening light → delayed sleep
+  cognitive_cost:
+    title: 'The Cognitive Cost:'
+    points:
+    - Sleep <6h = 20% ↓ memory, 23% ↓ concentration
+    - Sleep after learning = 20-40% ↑ memory retention
+  citations:
+  - Porkka-Heiskanen & Kalinchuk (2011)
+  - Wright et al. (2013)
+  - Impact of Sleep Duration (2025)
+  - Al-Salmani et al. (2023)
+  diagram_description: Rising curve showing adenosine accumulation during day; sine
+    wave showing 24-hour circadian rhythm with sun at peak and moon at trough
+slide_3:
+  type: four_wins
+  title: Four Quick Wins
+  wins:
+  - number: 1
+    icon: ☕
+    title: Caffeine Timing
+    recommendation: Stop 8-12h before bed
+    detail: For 10pm sleep → no caffeine after 10am-2pm
+    evidence: 400mg within 12h of bed = major sleep disruption (Oxford, 2025)
+    mechanism: Half-life 5-6 hours
+  - number: 2
+    icon: 😴
+    title: Strategic Naps
+    recommendation: 10-30 min, early afternoon
+    detail: Before 3pm only
+    evidence: 10-60min naps → ↑ mood & alertness up to 4h (Oxford, 2023)
+    mechanism: 30min optimal for memory encoding
+  - number: 3
+    icon: 🌞
+    title: Light Exposure
+    recommendation: 'Morning: 5-30min outdoor light'
+    detail: 'Evening: Dim lights, reduce screens'
+    evidence: Morning light → ~1h/day circadian advance (Oxford, 2015)
+    mechanism: Blue light at night → 30-90min melatonin delay (Heo et al., 2023)
+  - number: 4
+    icon: 🕐
+    title: Sleep Consistency
+    recommendation: Same wake time daily
+    detail: 20min wind-down routine
+    evidence: Irregular sleep = 2-3h circadian delay + lower GPA (Phillips et al.,
+      2017)
+    mechanism: Consistency matters as much as duration
+  citations:
+  - Oxford Academic Sleep Journal (2025)
+  - Misiunaite et al. (2023)
+  - Lovato & Lack (2010)
+  - Crowley & Eastman (2020)
+  - Heo et al. (2023)
+  - Phillips et al. (2017)
+slide_4:
+  type: challenge
+  title: 3-Day Mini-Challenge
+  days:
+  - day: Day 1 (Tonight)
+    icon: ⏰
+    tasks:
+    - Set caffeine cutoff alarm (8-12h before bed)
+    - 20-min screen-free wind-down
+  - day: Day 2 (Tomorrow)
+    icon: ☀️
+    tasks:
+    - 5-min morning light exposure
+    - Same wake time as Day 1
+    - Optional 15-min nap (before 3pm)
+  - day: Day 3
+    icon: 🔁
+    tasks:
+    - Repeat morning light + wind-down
+    - Notice the difference
+  benefits:
+    title: 'Expected Benefits:'
+    items:
+    - Faster sleep onset
+    - Better focus & attention
+    - Improved mood & energy
+    - Stronger memory encoding
+  citation: Okano et al. (2019)
+slide_5:
+  type: references
+  title: Key References
+  note: Complete reference list available in accompanying research paper
+  references:
+  - Okano, K., et al. (2023). Nightly sleep duration predicts grade point average
+    in the first year of college. PNAS, 120(8).
+  - Phillips, A. J., et al. (2017). Irregular sleep/wake patterns are associated with
+    poorer academic performance. Scientific Reports, 7(1), 3216.
+  - Misiunaite, I., et al. (2023). Influence of mid-afternoon nap duration on memory,
+    mood and alertness. Sleep, 46(4).
+  - Oxford Academic Sleep Journal. (2025). Dose and timing effects of caffeine on
+    sleep. Sleep, 48(4).
+  - Crowley, S. J., & Eastman, C. I. (2020). Circadian phase advances in response
+    to morning light. Frontiers in Neuroscience, 14, 99.
+  - Heo, J. Y., et al. (2023). Effects of smartphone use with blue light at night.
+    Journal of Psychiatric Research, 87, 61-70.
+design_specs:
+  color_scheme:
+  - '#2C3E50'
+  - '#3498DB'
+  - '#ECF0F1'
+  fonts:
+    title: Arial Bold, 44pt
+    heading: Arial Bold, 36pt
+    body: Arial, 24pt
+    citation: Arial, 16pt
+  layout: Clean, minimal with high contrast
+  visual_style: Professional academic presentation with icons and simple diagrams

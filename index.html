@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sleep Smarter: 4 Quick Wins for Better Focus and Memory</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="presentation-container">
+        <!-- Navigation Controls -->
+        <button class="nav-btn nav-btn--left" id="prevBtn" aria-label="Previous slide">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="15,18 9,12 15,6"></polyline>
+            </svg>
+        </button>
+        <button class="nav-btn nav-btn--right" id="nextBtn" aria-label="Next slide">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="9,18 15,12 9,6"></polyline>
+            </svg>
+        </button>
+
+        <!-- Slide 1: Title & Hook -->
+        <div class="slide slide--active" id="slide1">
+            <div class="slide__header">
+                <h1 class="slide__title">Sleep Smarter: 4 Quick Wins for Better Focus and Memory</h1>
+                <h2 class="slide__subtitle">Evidence-Based Strategies for Academic Success</h2>
+                <p class="slide__presenter">Lucas Krawczak - LASP400-NRA Week 7</p>
+            </div>
+            
+            <div class="slide__content">
+                <div class="content-section">
+                    <h3 class="content-section__title">The Sleep-Study Tradeoff</h3>
+                    <p class="question">It's the night before your midterm. Do you:</p>
+                    <ul class="options-list">
+                        <li>A) Stay up until 2am cramming?</li>
+                        <li>B) Go to sleep at midnight?</li>
+                    </ul>
+                    
+                    <div class="callout-box">
+                        <h4 class="callout-box__title">The Research Answer:</h4>
+                        <p class="callout-box__stat">Every hour of lost sleep = 0.07 GPA decrease</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="slide__footer">
+                <p class="citation">Okano et al. (2023), PNAS</p>
+            </div>
+        </div>
+
+        <!-- Slide 2: Two Systems -->
+        <div class="slide" id="slide2">
+            <div class="slide__header">
+                <h1 class="slide__title">How Sleep Works: Two Key Systems</h1>
+            </div>
+            
+            <div class="slide__content">
+                <div class="two-column-layout">
+                    <div class="system-column">
+                        <h3 class="system-title">System 1: Sleep Pressure (Adenosine)</h3>
+                        <ul class="system-points">
+                            <li>Builds up while you're awake</li>
+                            <li>Creates 'sleepiness' sensation</li>
+                            <li>Caffeine blocks adenosine receptors temporarily</li>
+                        </ul>
+                    </div>
+                    <div class="system-column">
+                        <h3 class="system-title">System 2: Circadian Rhythm (Internal Clock)</h3>
+                        <ul class="system-points">
+                            <li>24-hour cycle controlled by light</li>
+                            <li>Morning light → earlier sleep</li>
+                            <li>Evening light → delayed sleep</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div class="cognitive-cost-section">
+                    <h4 class="cognitive-cost__title">The Cognitive Cost:</h4>
+                    <ul class="cognitive-cost__points">
+                        <li>Sleep &lt;6h = 20% ↓ memory, 23% ↓ concentration</li>
+                        <li>Sleep after learning = 20-40% ↑ memory retention</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="slide__footer">
+                <p class="citation">Porkka-Heiskanen &amp; Kalinchuk (2011) | Wright et al. (2013) | Impact of Sleep Duration (2025) | Al-Salmani et al. (2023)</p>
+            </div>
+        </div>
+
+        <!-- Slide 3: Four Wins -->
+        <div class="slide" id="slide3">
+            <div class="slide__header">
+                <h1 class="slide__title">Four Quick Wins</h1>
+            </div>
+            
+            <div class="slide__content">
+                <div class="four-wins-grid">
+                    <div class="win-box">
+                        <div class="win-icon">☕</div>
+                        <h3 class="win-title">1. Caffeine Timing</h3>
+                        <p class="win-recommendation">Stop 8-12h before bed</p>
+                        <p class="win-detail">For 10pm sleep → no caffeine after 10am-2pm</p>
+                        <p class="win-evidence">Evidence: "400mg within 12h = major disruption (Oxford, 2025)"</p>
+                    </div>
+                    <div class="win-box">
+                        <div class="win-icon">😴</div>
+                        <h3 class="win-title">2. Strategic Naps</h3>
+                        <p class="win-recommendation">10-30 min, early afternoon</p>
+                        <p class="win-detail">Before 3pm only</p>
+                        <p class="win-evidence">Evidence: "10-60min naps boost mood &amp; alertness 4h (Oxford, 2023)"</p>
+                    </div>
+                    <div class="win-box">
+                        <div class="win-icon">🌞</div>
+                        <h3 class="win-title">3. Light Exposure</h3>
+                        <p class="win-recommendation">Morning: 5-30min outdoor light</p>
+                        <p class="win-detail">Evening: Dim lights, reduce screens</p>
+                        <p class="win-evidence">Evidence: "Morning light → ~1h/day advance (Oxford, 2015)"</p>
+                    </div>
+                    <div class="win-box">
+                        <div class="win-icon">🕐</div>
+                        <h3 class="win-title">4. Sleep Consistency</h3>
+                        <p class="win-recommendation">Same wake time daily</p>
+                        <p class="win-detail">20min wind-down routine</p>
+                        <p class="win-evidence">Evidence: "Irregular sleep = 2-3h delay + lower GPA (Phillips et al., 2017)"</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="slide__footer">
+                <p class="citation">Oxford Academic Sleep Journal (2025) | Misiunaite et al. (2023) | Crowley &amp; Eastman (2020) | Heo et al. (2023) | Phillips et al. (2017)</p>
+            </div>
+        </div>
+
+        <!-- Slide 4: Challenge -->
+        <div class="slide" id="slide4">
+            <div class="slide__header">
+                <h1 class="slide__title">3-Day Mini-Challenge</h1>
+            </div>
+            
+            <div class="slide__content">
+                <div class="challenge-layout">
+                    <div class="challenge-timeline">
+                        <div class="challenge-day">
+                            <div class="day-header">
+                                <span class="day-icon">⏰</span>
+                                <h3 class="day-title">Day 1 (Tonight)</h3>
+                            </div>
+                            <ul class="day-tasks">
+                                <li>Set caffeine cutoff alarm (8-12h before bed)</li>
+                                <li>20-min screen-free wind-down</li>
+                            </ul>
+                        </div>
+                        <div class="challenge-day">
+                            <div class="day-header">
+                                <span class="day-icon">☀️</span>
+                                <h3 class="day-title">Day 2 (Tomorrow)</h3>
+                            </div>
+                            <ul class="day-tasks">
+                                <li>5-min morning light exposure</li>
+                                <li>Same wake time as Day 1</li>
+                                <li>Optional 15-min nap (before 3pm)</li>
+                            </ul>
+                        </div>
+                        <div class="challenge-day">
+                            <div class="day-header">
+                                <span class="day-icon">🔁</span>
+                                <h3 class="day-title">Day 3</h3>
+                            </div>
+                            <ul class="day-tasks">
+                                <li>Repeat morning light + wind-down</li>
+                                <li>Notice the difference</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="benefits-box">
+                        <h4 class="benefits-title">Expected Benefits:</h4>
+                        <ul class="benefits-list">
+                            <li>✓ Faster sleep onset</li>
+                            <li>✓ Better focus &amp; attention</li>
+                            <li>✓ Improved mood &amp; energy</li>
+                            <li>✓ Stronger memory encoding</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="slide__footer">
+                <p class="citation">Okano et al. (2019)</p>
+            </div>
+        </div>
+
+        <!-- Slide 5: References -->
+        <div class="slide" id="slide5">
+            <div class="slide__header">
+                <h1 class="slide__title">Key References</h1>
+            </div>
+            
+            <div class="slide__content">
+                <div class="references-content">
+                    <ul class="references-list">
+                        <li>Okano, K., et al. (2023). Nightly sleep duration predicts grade point average in the first year of college. PNAS, 120(8).</li>
+                        <li>Phillips, A. J., et al. (2017). Irregular sleep/wake patterns are associated with poorer academic performance. Scientific Reports, 7(1), 3216.</li>
+                        <li>Misiunaite, I., et al. (2023). Influence of mid-afternoon nap duration on memory, mood and alertness. Sleep, 46(4).</li>
+                        <li>Oxford Academic Sleep Journal. (2025). Dose and timing effects of caffeine on sleep. Sleep, 48(4).</li>
+                        <li>Crowley, S. J., &amp; Eastman, C. I. (2020). Circadian phase advances in response to morning light. Frontiers in Neuroscience, 14, 99.</li>
+                        <li>Heo, J. Y., et al. (2023). Effects of smartphone use with blue light at night. Journal of Psychiatric Research, 87, 61-70.</li>
+                    </ul>
+                    
+                    <p class="references-note">Complete reference list available in accompanying research paper</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide Counter -->
+        <div class="slide-counter">
+            <span id="slideCounter">1 / 5</span>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
