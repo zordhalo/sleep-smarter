@@ -785,18 +785,20 @@ body {
 .presentation-container {
   position: relative;
   width: 100vw;
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
   background-color: var(--color-background);
+  padding: 2vh 0;
 }
 
 /* Slide Styles */
 .slide {
   position: absolute;
   width: var(--slide-width);
-  height: var(--slide-height);
+  height: auto;
+  min-height: var(--slide-height);
   max-width: 90vw;
   max-height: 90vh;
   background-color: var(--color-white);
@@ -847,7 +849,9 @@ body {
   flex: 1;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
+  overflow: visible;
+  margin: var(--spacing-md) 0;
 }
 
 .slide__footer {
@@ -985,6 +989,9 @@ body {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: var(--spacing-md);
+  width: 100%;
+  height: auto;
+  overflow: visible;
 }
 
 .win-box {
@@ -993,6 +1000,9 @@ body {
   border-radius: var(--border-radius);
   text-align: center;
   border: 2px solid var(--color-accent);
+  display: flex;
+  flex-direction: column;
+  height: auto;
 }
 
 .win-icon {
@@ -1023,6 +1033,8 @@ body {
   font-size: var(--font-size-citation);
   color: var(--color-text-light);
   font-style: italic;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 
 /* Slide 4 Specific Styles */
@@ -1030,12 +1042,16 @@ body {
   display: grid;
   grid-template-columns: 2fr 1fr;
   gap: var(--spacing-lg);
+  width: 100%;
+  height: auto;
+  overflow: visible;
 }
 
 .challenge-timeline {
   display: flex;
   flex-direction: column;
   gap: var(--spacing-md);
+  height: auto;
 }
 
 .challenge-day {
@@ -1196,7 +1212,7 @@ body {
 @media (max-width: 1300px) {
   :root {
     --slide-width: 95vw;
-    --slide-height: 80vh;
+    --slide-height: auto;
     --font-size-title: 36px;
     --font-size-heading: 28px;
     --font-size-body: 20px;
@@ -1205,6 +1221,14 @@ body {
   
   .slide {
     padding: var(--spacing-md);
+    height: auto;
+    min-height: 0;
+    max-height: 90vh;
+  }
+
+  .presentation-container {
+    align-items: flex-start;
+    padding: 5vh 0;
   }
 }
 
@@ -1214,15 +1238,40 @@ body {
     --font-size-heading: 22px;
     --font-size-body: 18px;
     --font-size-small: 14px;
+    --font-size-citation: 12px;
   }
   
   .two-column-layout,
   .four-wins-grid {
     grid-template-columns: 1fr;
+    height: auto;
+    overflow: visible;
   }
   
   .challenge-layout {
     grid-template-columns: 1fr;
+    height: auto;
+    overflow: visible;
+  }
+  
+  .slide {
+    padding: var(--spacing-sm);
+    height: auto;
+    min-height: 0;
+    max-height: none;
+    display: flex;
+    flex-direction: column;
+    margin: 5vh auto;
+  }
+  
+  .slide__content {
+    flex: 1;
+    overflow: visible;
+  }
+  
+  .win-box {
+    padding: var(--spacing-sm);
+    margin-bottom: var(--spacing-md);
   }
   
   .nav-btn {
@@ -1236,6 +1285,24 @@ body {
   
   .nav-btn--right {
     right: 20px;
+  }
+  
+  .slide__header {
+    margin-bottom: var(--spacing-sm);
+    padding-bottom: var(--spacing-sm);
+  }
+  
+  .slide__footer {
+    margin-top: var(--spacing-sm);
+    padding-top: var(--spacing-sm);
+  }
+  
+  .presentation-container {
+    padding: 2vh 0;
+    height: auto;
+    min-height: 100vh;
+    overflow-y: auto;
+    align-items: flex-start;
   }
 }
 

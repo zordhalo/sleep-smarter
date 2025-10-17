@@ -198,46 +198,46 @@ In conclusion, the message for college students is clear: sleep is not a luxury 
 
 ## References
 
-Al-Salmani, M., Edwards, E. J., & Patel, M. (2023). The relationship of sleep quality and cognitive failure among healthcare students. *Education Research International, 2023*, Article 5570383. https://doi.org/10.1155/2023/5570383
+Al-Salmani, M., Edwards, E. J., & Patel, M. (2023). The relationship of sleep quality and cognitive failure among healthcare students. *Education Research International, 2023*, Article 5570383. <https://doi.org/10.1155/2023/5570383>
 
-Burke, T. M., Markwald, R. R., McHill, A. W., Chinoy, E. D., Snider, J. A., Bessman, S. C., Jung, C. M., O'Neill, J. S., & Wright, K. P., Jr. (2015). Effects of caffeine on the human circadian clock in vivo and in vitro. *Science Translational Medicine, 7*(305), 305ra146. https://doi.org/10.1126/scitranslmed.aac5125
+Burke, T. M., Markwald, R. R., McHill, A. W., Chinoy, E. D., Snider, J. A., Bessman, S. C., Jung, C. M., O'Neill, J. S., & Wright, K. P., Jr. (2015). Effects of caffeine on the human circadian clock in vivo and in vitro. *Science Translational Medicine, 7*(305), 305ra146. <https://doi.org/10.1126/scitranslmed.aac5125>
 
-Crowley, S. J., & Eastman, C. I. (2020). Circadian phase advances in response to weekend morning light in adolescents with short sleep and late bedtimes on school nights. *Frontiers in Neuroscience, 14*, 99. https://doi.org/10.3389/fnins.2020.00099
+Crowley, S. J., & Eastman, C. I. (2020). Circadian phase advances in response to weekend morning light in adolescents with short sleep and late bedtimes on school nights. *Frontiers in Neuroscience, 14*, 99. <https://doi.org/10.3389/fnins.2020.00099>
 
-Frontiers in Neuroscience. (2025). The impact of sleep deprivation on cognitive function in shift workers. *Frontiers in Neuroscience, 19*, 1559969. https://doi.org/10.3389/fnins.2025.1559969
+Frontiers in Neuroscience. (2025). The impact of sleep deprivation on cognitive function in shift workers. *Frontiers in Neuroscience, 19*, 1559969. <https://doi.org/10.3389/fnins.2025.1559969>
 
-Heo, J. Y., Kim, K., Fava, M., Mischoulon, D., Papakostas, G. I., Kim, M. J., Kim, D. J., Chang, K. A., Oh, Y., Yu, B. H., & Jeon, H. J. (2023). Effects of smartphone use with and without blue light at night in healthy adults: A randomized, double-blind, cross-over, placebo-controlled comparison. *Journal of Psychiatric Research, 87*, 61-70. https://doi.org/10.1016/j.jpsychires.2016.12.017
+Heo, J. Y., Kim, K., Fava, M., Mischoulon, D., Papakostas, G. I., Kim, M. J., Kim, D. J., Chang, K. A., Oh, Y., Yu, B. H., & Jeon, H. J. (2023). Effects of smartphone use with and without blue light at night in healthy adults: A randomized, double-blind, cross-over, placebo-controlled comparison. *Journal of Psychiatric Research, 87*, 61-70. <https://doi.org/10.1016/j.jpsychires.2016.12.017>
 
 Impact of Sleep Duration on Cognitive Performance. (2025). *Auctores Online Journal of Research in Medical and Dental Science, 14*(1), 45-67.
 
-Irish, L. A., Kline, C. E., Gunn, H. E., Buysse, D. J., & Hall, M. H. (2015). The role of sleep hygiene in promoting public health: A review of empirical evidence. *Sleep Medicine Reviews, 22*, 23-36. https://doi.org/10.1016/j.smrv.2014.10.001
+Irish, L. A., Kline, C. E., Gunn, H. E., Buysse, D. J., & Hall, M. H. (2015). The role of sleep hygiene in promoting public health: A review of empirical evidence. *Sleep Medicine Reviews, 22*, 23-36. <https://doi.org/10.1016/j.smrv.2014.10.001>
 
-Leong, R. L. F., & Chee, M. W. L. (2023). Understanding the need for sleep to improve cognition. *Annual Review of Psychology, 74*, 27-57. https://doi.org/10.1146/annurev-psych-032620-034127
+Leong, R. L. F., & Chee, M. W. L. (2023). Understanding the need for sleep to improve cognition. *Annual Review of Psychology, 74*, 27-57. <https://doi.org/10.1146/annurev-psych-032620-034127>
 
-Lo, J. C., Ong, J. L., Leong, R. L., Gooley, J. J., & Chee, M. W. (2016). Cognitive performance, sleepiness, and mood in partially sleep deprived adolescents: The need for sleep study. *Sleep, 39*(3), 687-698. https://doi.org/10.5665/sleep.5552
+Lo, J. C., Ong, J. L., Leong, R. L., Gooley, J. J., & Chee, M. W. (2016). Cognitive performance, sleepiness, and mood in partially sleep deprived adolescents: The need for sleep study. *Sleep, 39*(3), 687-698. <https://doi.org/10.5665/sleep.5552>
 
-Lovato, N., & Lack, L. (2010). The effects of napping on cognitive functioning. *Progress in Brain Research, 185*, 155-166. https://doi.org/10.1016/B978-0-444-53702-7.00009-9
+Lovato, N., & Lack, L. (2010). The effects of napping on cognitive functioning. *Progress in Brain Research, 185*, 155-166. <https://doi.org/10.1016/B978-0-444-53702-7.00009-9>
 
-Misiunaite, I., Eastman, C. I., & Crowley, S. J. (2023). Influence of mid-afternoon nap duration and sleep parameters on memory, mood and alertness. *Sleep, 46*(4), zsad025. https://doi.org/10.1093/sleep/zsad025
+Misiunaite, I., Eastman, C. I., & Crowley, S. J. (2023). Influence of mid-afternoon nap duration and sleep parameters on memory, mood and alertness. *Sleep, 46*(4), zsad025. <https://doi.org/10.1093/sleep/zsad025>
 
-Okano, K., Kaczmarzyk, J. R., Dave, N., Gabrieli, J. D. E., & Grossman, J. C. (2019). Sleep quality, duration, and consistency are associated with better academic performance in college students. *npj Science of Learning, 4*(1), 16. https://doi.org/10.1038/s41539-019-0055-z
+Okano, K., Kaczmarzyk, J. R., Dave, N., Gabrieli, J. D. E., & Grossman, J. C. (2019). Sleep quality, duration, and consistency are associated with better academic performance in college students. *npj Science of Learning, 4*(1), 16. <https://doi.org/10.1038/s41539-019-0055-z>
 
-Okano, K., Kaczmarzyk, J. R., Dave, N., Gabrieli, J. D. E., & Grossman, J. C. (2023). Nightly sleep duration predicts grade point average in the first year of college. *Proceedings of the National Academy of Sciences, 120*(8), e2209123120. https://doi.org/10.1073/pnas.2209123120
+Okano, K., Kaczmarzyk, J. R., Dave, N., Gabrieli, J. D. E., & Grossman, J. C. (2023). Nightly sleep duration predicts grade point average in the first year of college. *Proceedings of the National Academy of Sciences, 120*(8), e2209123120. <https://doi.org/10.1073/pnas.2209123120>
 
-Oxford Academic Sleep Journal. (2025). Dose and timing effects of caffeine on subsequent sleep: A randomized clinical crossover trial. *Sleep, 48*(4), zsae230. https://doi.org/10.1093/sleep/zsae230
+Oxford Academic Sleep Journal. (2025). Dose and timing effects of caffeine on subsequent sleep: A randomized clinical crossover trial. *Sleep, 48*(4), zsae230. <https://doi.org/10.1093/sleep/zsae230>
 
-Phillips, A. J. K., Clerx, W. M., O'Brien, C. S., Sano, A., Barger, L. K., Picard, R. W., Lockley, S. W., Klerman, E. B., & Czeisler, C. A. (2017). Irregular sleep/wake patterns are associated with poorer academic performance and delayed circadian and sleep/wake timing. *Scientific Reports, 7*(1), 3216. https://doi.org/10.1038/s41598-017-03171-4
+Phillips, A. J. K., Clerx, W. M., O'Brien, C. S., Sano, A., Barger, L. K., Picard, R. W., Lockley, S. W., Klerman, E. B., & Czeisler, C. A. (2017). Irregular sleep/wake patterns are associated with poorer academic performance and delayed circadian and sleep/wake timing. *Scientific Reports, 7*(1), 3216. <https://doi.org/10.1038/s41598-017-03171-4>
 
-Porkka-Heiskanen, T., & Kalinchuk, A. V. (2011). Adenosine, energy metabolism and sleep homeostasis. *Sleep Medicine Reviews, 15*(2), 123-135. https://doi.org/10.1016/j.smrv.2010.06.005
+Porkka-Heiskanen, T., & Kalinchuk, A. V. (2011). Adenosine, energy metabolism and sleep homeostasis. *Sleep Medicine Reviews, 15*(2), 123-135. <https://doi.org/10.1016/j.smrv.2010.06.005>
 
-Roenneberg, T., Kuehnle, T., Juda, M., Kantermann, T., Allebrandt, K., Gordijn, M., & Merrow, M. (2007). Epidemiology of the human circadian clock. *Sleep Medicine Reviews, 11*(6), 429-438. https://doi.org/10.1016/j.smrv.2007.07.005
+Roenneberg, T., Kuehnle, T., Juda, M., Kantermann, T., Allebrandt, K., Gordijn, M., & Merrow, M. (2007). Epidemiology of the human circadian clock. *Sleep Medicine Reviews, 11*(6), 429-438. <https://doi.org/10.1016/j.smrv.2007.07.005>
 
-Shechter, A., Kim, E. W., St-Onge, M. P., & Westwood, A. J. (2018). Blocking nocturnal blue light for insomnia: A randomized controlled trial. *Journal of Psychiatric Research, 96*, 196-202. https://doi.org/10.1016/j.jpsychires.2017.10.015
+Shechter, A., Kim, E. W., St-Onge, M. P., & Westwood, A. J. (2018). Blocking nocturnal blue light for insomnia: A randomized controlled trial. *Journal of Psychiatric Research, 96*, 196-202. <https://doi.org/10.1016/j.jpsychires.2017.10.015>
 
-Sterpenich, V., Schmidt, C., Albouy, G., Matarazzo, L., Vanhaudenhuyse, A., Boveroux, P., Degueldre, C., Leclercq, Y., Balteau, E., Collette, F., Luxen, A., Phillips, C., & Maquet, P. (2014). Memory reactivation during rapid eye movement sleep promotes its generalization and integration in cortical stores. *Sleep, 37*(6), 1061-1075. https://doi.org/10.5665/sleep.3762
+Sterpenich, V., Schmidt, C., Albouy, G., Matarazzo, L., Vanhaudenhuyse, A., Boveroux, P., Degueldre, C., Leclercq, Y., Balteau, E., Collette, F., Luxen, A., Phillips, C., & Maquet, P. (2014). Memory reactivation during rapid eye movement sleep promotes its generalization and integration in cortical stores. *Sleep, 37*(6), 1061-1075. <https://doi.org/10.5665/sleep.3762>
 
-Van Dongen, H. P., Maislin, G., Mullington, J. M., & Dinges, D. F. (2003). The cumulative cost of additional wakefulness: Dose-response effects on neurobehavioral functions and sleep physiology from chronic sleep restriction and total sleep deprivation. *Sleep, 26*(2), 117-126. https://doi.org/10.1093/sleep/26.2.117
+Van Dongen, H. P., Maislin, G., Mullington, J. M., & Dinges, D. F. (2003). The cumulative cost of additional wakefulness: Dose-response effects on neurobehavioral functions and sleep physiology from chronic sleep restriction and total sleep deprivation. *Sleep, 26*(2), 117-126. <https://doi.org/10.1093/sleep/26.2.117>
 
 Walker, M. P. (2017). *Why we sleep: Unlocking the power of sleep and dreams*. Scribner.
 
-Wright, K. P., Jr., McHill, A. W., Birks, B. R., Griffin, B. R., Rusterholz, T., & Chinoy, E. D. (2013). Entrainment of the human circadian clock to the natural light-dark cycle. *Current Biology, 23*(16), 1554-1558. https://doi.org/10.1016/j.cub.2013.06.039
+Wright, K. P., Jr., McHill, A. W., Birks, B. R., Griffin, B. R., Rusterholz, T., & Chinoy, E. D. (2013). Entrainment of the human circadian clock to the natural light-dark cycle. *Current Biology, 23*(16), 1554-1558. <https://doi.org/10.1016/j.cub.2013.06.039>
